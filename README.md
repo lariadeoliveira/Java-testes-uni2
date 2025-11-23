@@ -12,8 +12,6 @@ Este repositório contém as **soluções para os 10 exercícios** da Unidade 2,
 
 ## 📁 Estrutura
 
-- `src/` — contém os arquivos **.java** para cada exercício
-
 | Exercício | Arquivo | Tema |
 |---|---|---|
 | 1 | `Ex01_InvertList.java` | Inversão de lista sem métodos prontos |
